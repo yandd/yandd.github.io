@@ -1,2 +1,2 @@
 # yandd.github.io
-blogg
+blog
