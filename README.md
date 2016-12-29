@@ -1,0 +1,2 @@
+# yandd.github.io
+blogg
